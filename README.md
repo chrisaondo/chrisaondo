@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Email Header Analysis](https://github.com/chrisaondo/Email-Header-Analysis) <br/>
-  - [Vulnerability Assessment](https://github.com/chrisaondo/Vulnerability-Scan/tree/main) <br/>
+  - [Vulnerability Assessment](https://github.com/chrisaondo/Vulnerability-Assessment.git) <br/>
 
 
 
