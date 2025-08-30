@@ -1,45 +1,50 @@
-<h1>Hi, I'm Chris!
+# 👋 Hi, I'm Christopher! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+🔐 Cybersecurity Analyst with 2+ years of experience in **SOC operations, incident response, forensics, and vulnerability management**.  
+🌍 Experienced working in both **Canada** and **Nigeria**, with hands-on projects in **SIEM, IDS/IPS, threat hunting, and cloud security**.  
 
-  - [Linux for Cybersecurity](https://github.com/chrisaondo/linux-for-cybersecurity.git) <br/>
+---
 
-  - [Email Header Analysis](https://github.com/chrisaondo/Email-Header-Analysis) <br/>
-  - [Vulnerability Assessment](https://github.com/chrisaondo/Vulnerability-Assessment.git) <br/>
+## 💼 Current Role  
+**Independent Cybersecurity Analyst (Self-Employed)**  
+- Building and maintaining hands-on labs for **SOC analysis, digital forensics, and threat intelligence**  
+- Conducted forensic investigations with tools like **KAPE, Registry Explorer, and Splunk**  
+- Developing **open-source projects** and case studies for security investigations  
+- Focusing on **advanced detection engineering** and **Web3 security**  
 
+---
 
+## 🏢 Previous Experience  
+**Cybersecurity Intern – Amdari (2025)**  
+- Assisted in daily SOC operations including **event triage, phishing analysis, and vulnerability management**  
+- Collaborated on improving **detection use cases** and **reporting workflows**  
 
+---
 
+## 🎯 Currently Working On  
+- Preparing for **CISSP** and **GIAC GCIA** certifications  
+- Expanding **SOC lab environments** for real-world log analysis  
+- Researching **AI-driven detection and threat hunting**  
 
-  
-<h2>📄 Certifications</h2>
+---
 
+## 👨‍💻 Featured Projects  
+- 🐧 [Linux for Cybersecurity](https://github.com/chrisaondo/linux-for-cybersecurity) – fundamentals & security-focused Linux labs  
+- ✉️ [Email Header Analysis](https://github.com/chrisaondo/Email-Header-Analysis) – phishing detection & forensic investigation  
+- 🛡️ [Vulnerability Assessment](https://github.com/chrisaondo/Vulnerability-Assessment) – Nessus credentialed scans & patching automation  
+- 🔍 Windows Forensics CTF – *Coming soon 🚧*  
+- 🌐 Threat Intelligence: MuddyWater APT – *Coming soon 🚧*  
 
-  - [Google Cybersecurity](https://www.credly.com/badges/a5974528-175a-4b0e-9d57-923d29945c82/linked_in_profile)
-  - [Cybersecurity Analyst Program – 10Alytics](https://github.com/chrisaondo/chrisaondo/blob/main/10Alytics%20Certificate.pdf)
+---
 
+## 📄 Certifications  
+- [Google Cybersecurity](https://www.credly.com/badges/a5974528-175a-4b0e-9d57-923d29945c82/linked_in_profile)  
+- [Cybersecurity Analyst Program – 10Alytics](https://github.com/chrisaondo/chrisaondo/blob/main/10Alytics%20Certificate.pdf)  
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🤝 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-aondoakaa)  
+- 🐙 [GitHub](https://github.com/chrisaondo)  
+- ✉️ [Email](mailto:christopheraondoakaa099@gmail.com)  
 
-[<img align="left" alt="KrisAon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="/in/christopher-aondoakaa| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[youtube]: https://www.youtube.com/@KrisAon
-[linkedin]: www.linkedin.com/in/christopher-aondoakaa
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
